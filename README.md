@@ -9,7 +9,7 @@ The main contributions of ACAE are as follows:
 
 3.A multi-scale timestamp mask-based MTS data augmentation method.
 
-![image](https://github.com/yujiahao12138/ACAE/assets/62507173/b56cb215-4315-434b-9661-c9c6a95efb7d)
+![image](https://github.com/ML918/ACAE/assets/151547001/790f8736-1255-4692-b713-7755e94bacc8)
 
 
 ## Get Started
@@ -30,7 +30,7 @@ python main.py --data 'SMAP'
 ## Main Result
 We compare our model with 14 baselines. **Generally,  ACAE achieves SOTA.**
 
-![image](https://github.com/yujiahao12138/ACAE/assets/62507173/c07e5a28-35ac-4ba4-ba65-b02d7a7096db)
+![image](https://github.com/ML918/ACAE/assets/151547001/b4ae7dbc-23a5-49d8-b0bd-1cd9bb5296f3)
 
 
 ## Citation
